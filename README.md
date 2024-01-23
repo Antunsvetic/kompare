@@ -18,7 +18,7 @@
 
 ### Deployment
 
-## just run
+#### just run
     - docker-compose up -d
 
 ## to stop all containers
