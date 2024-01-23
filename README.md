@@ -21,16 +21,16 @@
 #### just run
     - docker-compose up -d
 
-## to stop all containers
+#### to stop all containers
     - docker-compose down
 
-## to stop and remove all containers
+#### to stop and remove all containers
     - docker-compose down -v
 
 ### Accessing database
 
-## Exec into mongo container
+#### Exec into mongo container
     - docker exec -it kompare-task-mongo-1 mongosh
 
-## Exec into mongo container
+#### Exec into mongo container
     - use kompare
