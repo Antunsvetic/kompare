@@ -1,0 +1,16 @@
+.create-customer-form {
+    width: 40%;
+    margin: 20px auto 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-group {
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+.form-group label {
+    text-align: left;
+}
